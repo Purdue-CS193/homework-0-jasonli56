@@ -14,8 +14,9 @@ Syntax highlighted code block
 # Jason Li's first CS193 homework
 
 
-- Bulleted
-- List
+- Teaches me some useful tools
+- Short
+- Once a week
 
 1. Numbered
 2. List
